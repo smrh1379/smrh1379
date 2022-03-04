@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I'm Seyed Mohammadreza Hosseini </br>
+I have a great passion for learning different skills.</br>
+Welcome to my GitHub ❤️</br>
+🌱 I’m currently learning Machine learning and Deep Learning concepts.</br>
+📫 How to reach me: smrh1379@gmail.com</br>
 <!--
 **smrh1379/smrh1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
